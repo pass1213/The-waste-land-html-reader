@@ -1,2 +1,2 @@
-# The waste land html reader
+The waste land html reader
 Run index.html and read.

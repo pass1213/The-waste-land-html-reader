@@ -1,4 +1,3 @@
-const list=[
 const list = [
   {
     t: "序",

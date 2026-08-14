@@ -1,0 +1,25 @@
+body{
+  backgroud:#f4f1eb;
+  font-family:serif;
+  text-align:center;
+  padding:30px 10px;
+}
+#box{
+background:white;
+  max-width:450px;
+  margin:0 auto 20px;
+  padding:30px;
+  border-radius:8px;
+}
+#a{
+  color:#666;
+  margin:8px 0 20px;
+}
+#c{
+  white-space:pre-line;
+  line-height:2;
+}
+button{
+  padding:6px 14px;
+  margin:0 4px;
+}
